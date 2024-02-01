@@ -4,3 +4,5 @@
 ](https://painel.smdhc.info/public/dashboard/cc9539e5-d9cb-4c4c-a1cb-7539574f0007)https://painel.smdhc.info/public/dashboard/cc9539e5-d9cb-4c4c-a1cb-7539574f0007
 
 https://homolog.gestaodeparcerias.smdhc.info/
+
+https://painel.smdhc.info/public/question/869cc714-55c8-4c5e-acb1-74c31d17fdeb.xlsx
